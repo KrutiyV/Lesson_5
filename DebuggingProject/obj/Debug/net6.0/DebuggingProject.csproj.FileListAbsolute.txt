@@ -1,0 +1,15 @@
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\bin\Debug\net6.0\DebuggingProject.exe
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\bin\Debug\net6.0\DebuggingProject.deps.json
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\bin\Debug\net6.0\DebuggingProject.runtimeconfig.json
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\bin\Debug\net6.0\DebuggingProject.dll
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\bin\Debug\net6.0\DebuggingProject.pdb
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\DebuggingProject.csproj.AssemblyReference.cache
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\DebuggingProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\DebuggingProject.AssemblyInfoInputs.cache
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\DebuggingProject.AssemblyInfo.cs
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\DebuggingProject.csproj.CoreCompileInputs.cache
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\DebuggingProject.dll
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\refint\DebuggingProject.dll
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\DebuggingProject.pdb
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\DebuggingProject.genruntimeconfig.cache
+F:\Beetroot.Net\Lesson_5\DebuggingProject\DebuggingProject\obj\Debug\net6.0\ref\DebuggingProject.dll
